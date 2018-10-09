@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="51.791" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\vsingh\eclipse-workspace\Selenium\target\test-classes;C:\Users\vsingh\eclipse-workspace\Selenium\target\classes;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\vsingh\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\vsingh\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\vsingh\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\vsingh\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\vsingh\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\vsingh\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\vsingh\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\vsingh\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\vsingh\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\vsingh\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\vsingh\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Users\vsingh\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\vsingh\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\vsingh\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\vsingh\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\vsingh\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\vsingh\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\vsingh\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\vsingh\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\vsingh\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.22.0\surefire-testng-utils-2.22.0.jar;C:\Users\vsingh\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.22.0\surefire-grouper-2.22.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_181\bin"/>
+    <property name="sun.java.command" value="C:\Users\vsingh\AppData\Local\Temp\surefire950855324184802632\surefirebooter3973663154503603737.jar C:\Users\vsingh\AppData\Local\Temp\surefire950855324184802632 2018-10-01T23-00-45_910-jvmRun1 surefire9221224942828213532tmp surefire_08233475409913759203tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\vsingh\eclipse-workspace\Selenium\target\test-classes;C:\Users\vsingh\eclipse-workspace\Selenium\target\classes;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\vsingh\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\vsingh\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\vsingh\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\vsingh\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\vsingh\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\vsingh\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\vsingh\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\vsingh\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\vsingh\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\vsingh\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\vsingh\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\vsingh\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Users\vsingh\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\vsingh\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\vsingh\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\vsingh\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\vsingh\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\vsingh\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\vsingh\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\vsingh\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\vsingh\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.22.0\surefire-testng-utils-2.22.0.jar;C:\Users\vsingh\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.22.0\surefire-grouper-2.22.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\vsingh"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_181"/>
+    <property name="basedir" value="C:\Users\vsingh\eclipse-workspace\Selenium"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\vsingh\AppData\Local\Temp\surefire950855324184802632\surefirebooter3973663154503603737.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_181\lib\resources.jar;C:\Program Files\Java\jre1.8.0_181\lib\rt.jar;C:\Program Files\Java\jre1.8.0_181\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_181\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_181\lib\jce.jar;C:\Program Files\Java\jre1.8.0_181\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_181\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_181\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_181-b13"/>
+    <property name="user.name" value="vsingh"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_181\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\vsingh\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\vsingh\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_181"/>
+    <property name="user.dir" value="C:\Users\vsingh\eclipse-workspace\Selenium"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Windows\System32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_181\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="LoginTest" classname="com.TestCases.LoginTestCase" time="42.301">
+    <failure message="Expected condition failed: waiting for element to be clickable: By.cssSelector: section.form__group.-button.\2b textCenter &gt; button (tried for 10 second(s) with 500 milliseconds interval)" type="java.lang.AssertionError">java.lang.AssertionError: Expected condition failed: waiting for element to be clickable: By.cssSelector: section.form__group.-button.\2b textCenter > button (tried for 10 second(s) with 500 milliseconds interval)
+	at com.TestCases.LoginTestCase.LoginTest(LoginTestCase.java:26)
+</failure>
+    <system-out><![CDATA[https://dev.castinet.org/
+]]></system-out>
+    <system-err><![CDATA[1538415047642	geckodriver	INFO	geckodriver 0.19.0
+1538415047650	geckodriver	INFO	Listening on 127.0.0.1:48783
+1538415048456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\vsingh\\AppData\\Local\\Temp\\rust_mozprofile.er8c3WwXB4JC"
+1538415051395	Marionette	INFO	Listening on port 58915
+1538415051583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538415051655	Marionette	DEBUG	[6442450945] Frame script loaded
+1538415051657	Marionette	DEBUG	[6442450945] Frame script registered
+Oct 01, 2018 11:00:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1538415055351	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538415056872	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538415078651	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://dev.castinet.org/login?redirectUrl=%2Fhome
+1538415078652	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://dev.castinet.org/login?redirectUrl=%2Fhome
+1538415078669	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://dev.castinet.org/login?redirectUrl=%2Fhome
+1538415080646	Marionette	DEBUG	[6442450945] Received DOM event unload for https://dev.castinet.org/login?redirectUrl=%2Fhome
+1538415082028	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://login.microsoftonline.com/castinet.onmicrosoft.com/oauth2/authorize?response_type=id_token&client_id=4a240d6e-6cdc-40 ... equest-id=7f801513-dcd2-4ea8-8954-9d0dfd10ddfd&x-client-SKU=Js&x-client-Ver=1.0.16&nonce=b53fc934-96b3-4ab7-8794-f6ef8e95453c
+1538415082223	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://login.microsoftonline.com/castinet.onmicrosoft.com/oauth2/authorize?response_type=id_token&client_id=4a240d6e-6cdc-40 ... equest-id=7f801513-dcd2-4ea8-8954-9d0dfd10ddfd&x-client-SKU=Js&x-client-Ver=1.0.16&nonce=b53fc934-96b3-4ab7-8794-f6ef8e95453c
+1538415082726	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1538415085153	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://login.microsoftonline.com/castinet.onmicrosoft.com/oauth2/authorize?response_type=id_token&client_id=4a240d6e-6cdc-40 ... equest-id=7f801513-dcd2-4ea8-8954-9d0dfd10ddfd&x-client-SKU=Js&x-client-Ver=1.0.16&nonce=b53fc934-96b3-4ab7-8794-f6ef8e95453c
+1538415086509	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://login.microsoftonline.com/castinet.onmicrosoft.com/oauth2/authorize?response_type=id_token&client_id=4a240d6e-6cdc-40 ... equest-id=7f801513-dcd2-4ea8-8954-9d0dfd10ddfd&x-client-SKU=Js&x-client-Ver=1.0.16&nonce=b53fc934-96b3-4ab7-8794-f6ef8e95453c
+1538415086514	Marionette	DEBUG	[6442450945] Received DOM event unload for https://login.microsoftonline.com/castinet.onmicrosoft.com/oauth2/authorize?response_type=id_token&client_id=4a240d6e-6cdc-40 ... equest-id=7f801513-dcd2-4ea8-8954-9d0dfd10ddfd&x-client-SKU=Js&x-client-Ver=1.0.16&nonce=b53fc934-96b3-4ab7-8794-f6ef8e95453c
+1538415086994	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://login.microsoftonline.com/castinet.onmicrosoft.com/login
+1538415087231	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://login.microsoftonline.com/castinet.onmicrosoft.com/login
+]]></system-err>
+  </testcase>
+</testsuite>
